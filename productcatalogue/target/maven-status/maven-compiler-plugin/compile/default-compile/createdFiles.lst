@@ -1,0 +1,6 @@
+com/shekhar/shopping/productcatalogue/services/ProductService.class
+com/shekhar/shopping/productcatalogue/healthchecks/BasicHealthCheck.class
+com/shekhar/shopping/productcatalogue/model/Product.class
+com/shekhar/shopping/productcatalogue/configuration/ProductServiceConfiguration.class
+com/shekhar/shopping/productcatalogue/ProductServiceApplication.class
+com/shekhar/shopping/productcatalogue/resources/ProductResource.class

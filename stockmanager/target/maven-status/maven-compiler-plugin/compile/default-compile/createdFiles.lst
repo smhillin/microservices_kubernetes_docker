@@ -1,0 +1,7 @@
+com/shekhar/shopping/stockmanager/exceptions/StockNotFoundException.class
+com/shekhar/shopping/stockmanager/repositories/StockRepository.class
+com/shekhar/shopping/stockmanager/resources/StockResource.class
+com/shekhar/shopping/stockmanager/StockManagerApplication.class
+com/shekhar/shopping/stockmanager/config/DataGenerator.class
+com/shekhar/shopping/stockmanager/services/StockService.class
+com/shekhar/shopping/stockmanager/model/Stock.class

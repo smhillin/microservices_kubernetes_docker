@@ -1,0 +1,9 @@
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/resources/ProductResource.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/model/Product.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/services/ProductService.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/repo/StockRepo.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/services/dto/StockDTO.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/ShopfrontApplication.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/controllers/HomeController.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/repo/ProductRepo.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/shopfront/src/main/java/com/shekhar/shopping/shopfront/services/dto/ProductDTO.java

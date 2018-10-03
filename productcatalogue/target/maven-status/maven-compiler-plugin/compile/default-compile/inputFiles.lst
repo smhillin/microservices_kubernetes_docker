@@ -1,0 +1,6 @@
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/productcatalogue/src/main/java/com/shekhar/shopping/productcatalogue/configuration/ProductServiceConfiguration.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/productcatalogue/src/main/java/com/shekhar/shopping/productcatalogue/services/ProductService.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/productcatalogue/src/main/java/com/shekhar/shopping/productcatalogue/ProductServiceApplication.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/productcatalogue/src/main/java/com/shekhar/shopping/productcatalogue/model/Product.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/productcatalogue/src/main/java/com/shekhar/shopping/productcatalogue/resources/ProductResource.java
+/Users/sheagraw/Documents/dev/team-personal/microservices-lab-kubernetes/productcatalogue/src/main/java/com/shekhar/shopping/productcatalogue/healthchecks/BasicHealthCheck.java
