@@ -11,7 +11,7 @@ Update the apt-get package manager and install necessary packages in the machine
 ### Step 2: Clone the git project
 Clone the existing git project
 <br>
-`git clone https://github.com/shekhar2010us/microservices_kubernetes_docker.git`
+`git clone https://github.com/smhillin/microservices_kubernetes_docker.git`
 <br>
 
 ### Step 3: Maven build shopfront service and build docker image
@@ -21,7 +21,7 @@ Go to the shopfront project folder, build the maven project to create jar and bu
 <br>
 `mvn clean install`
 <br>
-`docker build -t shekhar/shopfront:1.0 .`
+`docker build -t smhillin/shopfront:1.0 .`
 <br>
 
 ### Step 4: Maven build productcatalogue service and build docker image
@@ -31,7 +31,7 @@ Go to the productcatalogue project folder, build the maven project to create jar
 <br>
 `mvn clean install`
 <br>
-`docker build -t shekhar/productcatalogue:1.0 .`
+`docker build -t smhillin/productcatalogue:1.0 .`
 <br>
 
 ### Step 5: Maven build stockmanager service and build docker image
@@ -41,12 +41,12 @@ Go to the stockmanager project folder, build the maven project to create jar and
 <br>
 `mvn clean install`
 <br>
-`docker build -t shekhar/stockmanager:1.0 .`
+`docker build -t smhillin/stockmanager:1.0 .`
 <br>
 
 ### Step 6: Check docker images and kubernetes resources
 **-- Check all Docker images <br>**
-`docker images | grep -i shekhar`
+`docker images | grep -i smhillin`
 <br>
 **-- Check all Kubernetes resources before deployment <br>**
 `kubectl get svc,rc,pod,deployment -o wide`
