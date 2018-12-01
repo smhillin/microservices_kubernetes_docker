@@ -2,21 +2,21 @@
 
 cd shopfront
 mvn clean install
-if docker build -t shekhar/shopfront . ; then
-  docker push shekhar/shopfront
+if docker build -t smhillin/shopfront . ; then
+  docker push smhillin/shopfront
 fi
 cd ..
 
 cd productcatalogue
 mvn clean install
-if docker build -t shekhar/productcatalogue . ; then
-  docker push shekhar/productcatalogue
+if docker build -t smhillin/productcatalogue . ; then
+  docker push smhillin/productcatalogue
 fi
 cd ..
 
 cd stockmanager
 mvn clean install
-if docker build -t shekhar/stockmanager . ; then
-  docker push shekhar/stockmanager
+if docker build -t smhillin/stockmanager . ; then
+  docker push smhillin/stockmanager
 fi
 cd ..
